@@ -78,12 +78,12 @@ const leadership = {
     "leadership message edit",
   images: [
     { 
-      img: require("../editable-stuff/headshot2.png"), 
+      img: require("../editable-stuff/headshot.png"), 
       label: "First slide label", 
       paragraph: "first slide paragraph text." 
     },
     { 
-      img: require("../editable-stuff/headshot3.png"), 
+      img: require("../editable-stuff/headshot.png"), 
       label: "Second slide label", 
       paragraph: "second slide paragraph text" 
     },
